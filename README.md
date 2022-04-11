@@ -63,6 +63,6 @@ Prediction of model's yhat and ground_truth
 <img src="images/forecast.png">
 
 The forcasted total deaths from January 2021 to Oct 2021
-### Note: The project was first developed in September 2020 and completed/stopped in December 2020.
+### Note: The project was first developed in September 2020 and completed/stopped its developement in December 2020.
 
 
