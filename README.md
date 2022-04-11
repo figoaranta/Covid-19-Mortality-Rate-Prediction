@@ -41,7 +41,28 @@ The approach was adapted and rather than using only two machine learning models,
 
 ### Results
 
+The results of each models' performance is visualised below. The first chart compares the prediction results with the ground thruth. One of the evaluation metric used in for measuring the model performance was Mean Sqaured Error. 
+
+Model | MSE Score
+--- | ---
+**Linear** | 1519223
+**Gradient** Boost | 18376429
+**Ridge** | 1750438
+**Lasso** | 1750439
+
+### Note: The MSE scores were measured in unscaled data, which ranged from 0 to 20085.
+
 <img src="images/tuned.png">
+
+A more accurate prediction was achieved through time-series analysis. This approach used ARIMA model, which is the combination of two models AR(Auto Regressive) and MA(Moving average).
+
 <img src="images/arima.png">
+
+Prediction of model's yhat and ground_truth
+
+<img src="images/forecast.png">
+
+The forcasted total deaths from January 2021 to Oct 2021
+### Note: The project was first developed in September 2020
 
 
