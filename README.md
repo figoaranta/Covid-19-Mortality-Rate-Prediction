@@ -6,8 +6,10 @@
 The dataset used in this project was from https://ourworldindata.org/coronavirus. It contained a total number of 55193 observations.
 
 ### An overview of the dataset
-Columns - Non missing values
-id | 55193
+Columns | Non-missing value
+--- | ---
+*Still* | `renders`
+1 | 2
 
 ### System Architecture Overview
 ### Model Evaluation
