@@ -3,7 +3,6 @@
 
 ### Outline
 <br></br>
-
 #### Data Collection
 The dataset used in this project was from https://ourworldindata.org/coronavirus. It contained a total number of 55193 observations.
 
