@@ -25,7 +25,7 @@ Here are some of the keys features. For more in-depth look, please refer to the 
 
 ### System Architecture Overview
 
-<img src="images/systemdesignoverview.png" width="200">
+<img src="images/systemdesignoverview.png">
 
 ### Model Evaluation
 
