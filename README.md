@@ -1,4 +1,4 @@
-# The goal of this project is to develop a regression predictive models to predict the mortality rate of Covid-19 in Indonesia.
+# The goal of this project is to develop regression predictive models to predict the mortality rate of Covid-19 in Indonesia.
 
 
 ## Outline
