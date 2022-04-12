@@ -35,7 +35,7 @@ The data processing pipeline contains processes such as data cleaning, where mis
 
 ### Predictive Models Used.
 
-The initial envisioned models used for this project would be Linear Regression and Ridge regression. However, it became evident that more techniques could be utilised and experimented to see how different approaches compared to one another in terms of the performance accuracy.
+The initial envisioned models used for this project was Linear Regression and Ridge regression. However, it became evident that more techniques could be utilised and experimented to see how different approaches compared to one another in terms of the performance accuracy.
 
 The approach was adapted and rather than using only two machine learning models, additional models such as Gradient Boost Regression, Lasso Regression, and ARIMA Model(Time Series) were introduced. 
 
