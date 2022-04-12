@@ -29,7 +29,7 @@ The overview of the system design can be seen in the figure below.
 
 As can be seen from the table in the dataset section, many columns contained missing values. It is important to deal with those missing values since it may hinder the training process of the models. Therefore, data were passed through the data processing pipeline before being fed into the model.
 
-The data processing pipeline contains processes such as data cleaning, where missing values are either dropped or replaced by some other values. To understand deeper of the data presented, data exploration and visualisation were conducted. This process showed a lot of meaniful charts that helped in the decision making of the next phase. Afterwards, perhaps the most crucial part of the process was to draw out new feature(s) from existing features, this process is called the feature engineering phase. Finally, after all the previous steps were completed, the next steps was to develop the predictive model(s) and tune the models based on an preliminary evaluation. 
+The data processing pipeline contains processes such as data cleaning, where missing values are either dropped or replaced by some other values. To understand deeper of the data presented, data exploration and visualisation were conducted. This process showed a lot of meaniful charts that helped in the decision making of the next phase. Afterwards, perhaps the most crucial part of the process was to draw out new feature(s) from existing features, this process is called the feature engineering phase. Finally, after all the previous steps were completed, the next steps were to develop the predictive model(s) and tune the models based on an preliminary evaluation. 
 
 <img src="images/systemdesignoverview.png">
 
